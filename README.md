@@ -7,8 +7,8 @@ cloudflareDynamicDNS is a project designed to automatically update your public I
 
 To use this tool, follow these steps:
 
-1. Copy the `config.example.json` file.
-2. Fill in the necessary details in the copied file.
+1. Rename the `config.example.json` file to `config.json`.
+2. Fill in the necessary details in the `config.json` file.
 
 Once you have configured your settings, you can run the script with the following command:
 
