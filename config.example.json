@@ -1,7 +1,7 @@
 {
   "zone_id": "your_zone_id",
   "api_token": "your_api_token",
-  "time": 5, // seconds
+  "time": 5, // minutes
   "dns": [
     {
       "record_id": "your_record_id",
