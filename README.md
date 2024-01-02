@@ -1,7 +1,7 @@
-# UpdateCloudFlareDNS
+# cloudflareDynamicDNS
 
 ## Introduction
-UpdateCloudFlareDNS is a project designed to automatically update your public IP on Cloudflare at specified intervals. This functionality is particularly useful for accessing your server via a domain, ensuring that the domain always points to the current public IP of your server.
+cloudflareDynamicDNS is a project designed to automatically update your public IP on Cloudflare at specified intervals. This functionality is particularly useful for accessing your server via a domain, ensuring that the domain always points to the current public IP of your server.
 
 ## Usage
 
@@ -14,3 +14,8 @@ Once you have configured your settings, you can run the script with the followin
 
 ```bash
 python3 main.py
+```
+
+## License
+
+MIT License
